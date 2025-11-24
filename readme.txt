@@ -1,14 +1,16 @@
 # Memento Machina
 
 *Memento Machina* es un videojuego **Metroidvania con estética
-cyberpunk**, desarrollado como proyecto académico. Combina exploración
+cyberpunk**, desarrollado como proyecto académico en Unity. Combina exploración
 no lineal, plataformas, combate PvE y progresión mediante habilidades,
 ambientado en un futuro distópico dominado por megacorporaciones y
 tecnología avanzada.
 
 ------------------------------------------------------------------------
 
-## Link para jugarlo directamente desde Unity Play ([https://play.unity.com/en/games/255ad844-fb60-4e1e-81d9-52cc9d2a4a8b/memento-machina])
+## Jugar en Unity Play  
+[Haz clic aquí para jugar Memento Machina](https://play.unity.com/en/games/255ad844-fb60-4e1e-81d9-52cc9d2a4a8b/memento-machina)
+
 ------------------------------------------------------------------------
 
 ## Mecánicas Principales
@@ -58,5 +60,6 @@ del mundo del juego.
 -   Amplio uso de animaciones y autómatas para personajes y enemigos
 
 ------------------------------------------------------------------------
+
 
 
