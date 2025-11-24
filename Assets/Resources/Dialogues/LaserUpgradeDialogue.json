@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "characterName": "TXEMA",
+      "text": "Look! That item there is very valuable!",
+      "nextId": 2
+    },
+    {
+      "id": 2,
+      "characterName": "TXEMA",
+      "text": "Take it to get a bunch of money and then we can get more upgrades from the terminal!",
+      "nextId": -1
+    }
+  ]
+}

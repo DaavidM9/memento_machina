@@ -1,0 +1,34 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "characterName": "TXEMA",
+      "text": "We will not be able to do this as smoothly as I had hoped. Luckily, you carry your Sonic Katana",
+      "nextId": 2
+    },
+    {
+      "id": 2,
+      "characterName": "TXEMA",
+      "text": "You will have to use it in order to activate the levers and kill enemies",
+      "nextId": 3
+    },
+    {
+      "id": 3,
+      "characterName": "TXEMA",
+      "text": "(Press 'LShift' to use the Sonic Katana to attack in an area in front of you, harming enemies and interacting with the environment)",
+      "nextId": 4
+    },
+    {
+      "id": 4,
+      "characterName": "TXEMA",
+      "text": "Remember to rest on any resting points you see, in order to heal and refill your first aid kits, which you can use at any time to heal up.",
+      "nextId": 5
+    },
+    {
+      "id": 5,
+      "characterName": "TXEMA",
+      "text": "(Pres 'W' near a resting point to rest, and use a first aid kit to heal with 'E')",
+      "nextId": -1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "characterName": "TXEMA",
+      "text": "It seems like you wont be able to make this jump. We have no choice but to attempt to use the ORB.",
+      "nextId": 2
+    },
+    {
+      "id": 2,
+      "characterName": "TXEMA",
+      "text": "Throw the orb, it will fly in the direction you are pointing in a straight line, losing battery as it does so, and rebound on hitting any surface.",
+      "nextId": 3
+    },
+    {
+      "id": 3,
+      "characterName": "TXEMA",
+      "text": "You will be able to teleport to it at anytime of its flight, or return it to you at will. You will notice its kinetic battery is special, and can charge faster when you move more.",
+      "nextId": 4
+    },
+    {
+      "id": 4,
+      "characterName": "TXEMA",
+      "text": "(Press 'Left Click' to throw or return the orb, choosing its direction by combining 'WASD', and teleport to it by pressing 'Right Click')",
+      "nextId": -1
+    }
+  ]
+}

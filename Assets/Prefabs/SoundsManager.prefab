@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &999416357983632698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8380088364747887427}
+  - component: {fileID: 3429460247882999497}
+  m_Layer: 0
+  m_Name: SoundsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8380088364747887427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999416357983632698}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 343.26288, y: 13.84552, z: -489.52563}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3429460247882999497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999416357983632698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc49703c2b80dd5408fbdbfc562c819c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rainSound: {fileID: 8300000, guid: a1ecc36d01221c242a5276db36001f06, type: 3}
+  buttonClickSound: {fileID: 8300000, guid: 0d3f582089a97ae4782ea0a5723c5964, type: 3}
+  attackSound: {fileID: 8300000, guid: d35157fc8c2cf2a479e4b6bfd89264b3, type: 3}
+  stepsSound: {fileID: 0}
+  jumpSound: {fileID: 8300000, guid: 7fe19c89bf9299c4ebdca8880b9b98bb, type: 3}
+  teleportSound: {fileID: 8300000, guid: 74e3842840a553944870ffa149415c73, type: 3}
+  orbRebound: {fileID: 8300000, guid: df0f413d669b79843b6da2d0e5511b8b, type: 3}
+  turretSound: {fileID: 8300000, guid: 2044e701b4982324192f8b2ec760e2b5, type: 3}
+  coinPickSound: {fileID: 8300000, guid: de3aa66bbf7925043976bb228a63ab3a, type: 3}

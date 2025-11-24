@@ -1,0 +1,22 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "characterName": "NPC Name",
+      "text": "Hello, traveler! What brings you to our village?",
+      "nextId": 2,
+    },
+    {
+      "id": 2,
+      "characterName": "NPC Name",
+      "text": "Safe travels!",
+      "nextId": 3,
+    },
+    {
+      "id": 3,
+      "characterName": "NPC Name",
+      "text": "Thank you! We could use your help.",
+      "nextId": -1,
+    }
+  ]
+}

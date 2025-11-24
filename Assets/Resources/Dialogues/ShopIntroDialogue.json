@@ -1,0 +1,16 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "characterName": "TXEMA",
+      "text": "Look, a shop terminal! Use the money you get from defetead enemies to acquire powerful upgrades",
+      "nextId": 2
+    },
+    {
+      "id": 2,
+      "characterName": "TXEMA",
+      "text": "(Press 'W' near the shop to interact with it",
+      "nextId": -1
+    }
+  ]
+}
